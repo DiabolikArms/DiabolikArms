@@ -4,7 +4,7 @@
 I’m passionate about **Web/App Development**, **Machine Learning**, **Data Analysis**, and **Product Management**. I enjoy turning complex problems into simple and intuitive solutions.
 
 ## Currently Learning
-I'm diving deeper into **NLP** and **Data STructures**, aiming for a 5 star on codechef.
+I'm diving deeper into **NLP** and **Data Structures**, aiming for a 5 star on codechef.
 
 ## Collaboration
 I’m looking to collaborate on innovative projects in **Web Development** and **Machine Learning**. Let's connect and create something amazing together!
