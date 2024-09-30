@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abhishek Kumar ([Portfolio](https://diabolikarms.github.io/Portfolio_Card/))
 
 ## Interests
-I’m passionate about **Web/App Development**, **Machine Learning**, **Data Analysis**, and **Product Management**. I enjoy turning complex problems into simple and intuitive solutions.
+I’m passionate about **Web/App Development**, **Machine Learning**, **Data Analytics**, and **Product Management**. I enjoy turning complex problems into simple and intuitive solutions.
 
 ## Currently Learning
 I'm diving deeper into **NLP** and **Data Structures**, aiming for a 5 star on codechef.
