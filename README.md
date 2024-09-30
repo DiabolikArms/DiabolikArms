@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abhishek Kumar ([@DiabolikArms](https://github.com/DiabolikArms))
+# 👋 Hi, I’m Abhishek Kumar ([@DiabolikArms](https://diabolikarms.github.io/Portfolio_Card/))
 
 ## Interests
 I’m passionate about **Web/App Development**, **Machine Learning**, **Data Analysis**, and **Product Management**. I enjoy turning complex problems into simple and intuitive solutions.
