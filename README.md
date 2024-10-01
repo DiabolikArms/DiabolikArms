@@ -11,7 +11,7 @@ I’m looking to collaborate on innovative projects in **Web Development** and *
 
 ## Reach Me
 - **Email:** [ak7032003@gmail.com](mailto:ak7032003@gmail.com)
-- **LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/your-linkedin-profile)
+- **LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-5b3513249/)
 
 ---
 
