@@ -23,7 +23,7 @@ I’m looking to collaborate on innovative projects in **Web Development** and *
 
 ### Notable Experience
 - **SDE Intern at ISRO**
-- **Freelance Web Developer**
-- **Product Management Intern**
+- **Freelance Web Developer at vDev Inc (NY)**
+- **Product Management Intern at Foruppo**
 
 Feel free to check out my repositories and contributions. Looking forward to connecting with fellow developers and tech enthusiasts!
