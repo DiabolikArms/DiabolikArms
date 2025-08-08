@@ -22,6 +22,7 @@ I’m looking to collaborate on innovative projects in **Web Development** and *
 - **Product Management**
 
 ### Notable Experience
+- **SDE at UKG**
 - **SDE Intern at ISRO**
 - **Freelance Web Developer at vDev Inc (NY)**
 - **Product Management Intern at Foruppo**
